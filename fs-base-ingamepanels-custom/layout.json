@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "path": "html_ui/InGamePanels/CustomPanel/CustomPanel.css",
+      "size": 1009,
+      "date": 132441482909180874
+    },
+    {
+      "path": "html_ui/InGamePanels/CustomPanel/CustomPanel.html",
+      "size": 3119,
+      "date": 132440507097241168
+    },
+    {
+      "path": "html_ui/InGamePanels/CustomPanel/CustomPanel.js",
+      "size": 5517,
+      "date": 132442481411972180
+    },
+    {
+      "path": "html_ui/Textures/Menu/toolbar/ICON_TOOLBAR_SKYVECTOR.svg",
+      "size": 702,
+      "date": 132401952992678246
+    },
+    {
+      "path": "InGamePanels/fs-base-ingamepanels-custom.spb",
+      "size": 806,
+      "date": 132453435271410222
+    }
+  ]
+}
