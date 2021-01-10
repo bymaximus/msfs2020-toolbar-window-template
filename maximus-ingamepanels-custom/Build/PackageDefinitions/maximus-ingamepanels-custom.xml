@@ -1,8 +1,8 @@
-<AssetPackage Name="fs-base-ingamepanels-custom" Version="0.1.0">
+<AssetPackage Name="maximus-ingamepanels-custom" Version="2.0.0">
 	<ItemSettings>
 		<ContentType>SPB</ContentType>
-		<Title>fs-base-ingamepanels-custom</Title>
-		<Manufacturer/>
+		<Title>maximus-ingamepanels-custom</Title>
+		<Manufacturer>Maximus</Manufacturer>
 		<Creator>Maximus</Creator>
 	</ItemSettings>
 	<Flags>
@@ -10,7 +10,7 @@
 		<CanBeReferenced>false</CanBeReferenced>
 	</Flags>
 	<AssetGroups>
-		<AssetGroup Name="fs-base-ingamepanels-custom">
+		<AssetGroup Name="maximus-ingamepanels-custom">
 			<Type>SPB</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>

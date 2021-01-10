@@ -16,12 +16,12 @@
       "date": 132442481411972180
     },
     {
-      "path": "html_ui/Textures/Menu/toolbar/ICON_TOOLBAR_SKYVECTOR.svg",
+      "path": "html_ui/Textures/Menu/toolbar/ICON_TOOLBAR_MAXIMUS_CUSTOM_PANEL.svg",
       "size": 702,
       "date": 132401952992678246
     },
     {
-      "path": "InGamePanels/fs-base-ingamepanels-custom.spb",
+      "path": "InGamePanels/maximus-ingamepanels-custom.spb",
       "size": 806,
       "date": 132453435271410222
     }
