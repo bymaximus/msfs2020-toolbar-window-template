@@ -22,7 +22,7 @@ Copy the package to community folder BUT DO NOT COPY the `maximus-ingamepanels-c
 <br/>
 <div align="center">
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](neiderf@gmail.com)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LZH27QQ2ST64N)
 
 </div>
 <br/>
