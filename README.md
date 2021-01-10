@@ -21,11 +21,9 @@ Copy the package to community folder BUT DO NOT COPY the `maximus-ingamepanels-c
 <br/>
 <br/>
 <div align="center">
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="LZH27QQ2ST64N" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
-</form>
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](neiderf@gmail.com)
+
 </div>
 <br/>
 <br/>
